@@ -81,6 +81,9 @@ class Trainer():
     def mlflow_log_metric(self, key, value):
         self.mlflow_client.log_metric(self.mlflow_run.info.run_id, key, value)
 
+# does not work
+# experiment_id = Trainer.mlflow_experiment_id
+# print(f"experiment URL: https://mlflow.lewagon.ai/#/experiments/{experiment_id}")
 
 if __name__ == "__main__":
     # get data
