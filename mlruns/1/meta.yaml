@@ -1,0 +1,4 @@
+artifact_location: file:///Users/sabrinadaun/code/sdaun/TaxiFareModel/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: test_experiment

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sabrinadaun/code/sdaun/TaxiFareModel/mlruns/1/9ea03a543a29433b9d0e31a21d0f0281/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 9ea03a543a29433b9d0e31a21d0f0281
+run_uuid: 9ea03a543a29433b9d0e31a21d0f0281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653403712030
+status: 1
+tags: []
+user_id: unknown
